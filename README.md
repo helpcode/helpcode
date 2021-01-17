@@ -2,11 +2,11 @@
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=helpcode" alt="helpcode" /></p>
 
-- 🔭 I’m currently working on **BetterPlayer, Catcher, Alice**
+- 🔭 I’m currently working on **Flutter，dart**
 
-- 🏢 I'm working @ [Better Software Group](https://bsgroup.eu)
+- 🏢 I'm not work
 
-- 👨‍💻 All of my projects are available at [https://github.com/jhomlala](https://github.com/jhomlala)
+- 👨‍💻 All of my projects are available at [https://github.com/helpcode](https://github.com/helpcode)
 
 - 💬 Ask me about **Flutter, Dart, Android**
 
