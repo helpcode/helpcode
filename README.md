@@ -6,13 +6,11 @@
 
 - 🏢 I'm not work
 
-- 👨‍💻 All of my projects are available at [https://github.com/helpcode](https://github.com/helpcode)
+- 👨‍💻 All of my projects are available at [https://github.com/helpcode](https://github.com/helpcode) or [https://gitee.com/bmycode](https://gitee.com/bmycode)
 
-- 💬 Ask me about **Flutter, Dart, Android**
+- 💬 Ask me about **Flutter, Dart, Vue.js，React.js，Node.js，Typescript，PHP，Uni-app**
 
-- 📫 How to reach me **jhomlala@gmail.com**
-
-- ⚡ Fun fact **I like to refactor old code.**
+- 📫 How to reach me **2271608011@qq.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
