@@ -13,8 +13,9 @@
 - 📫 How to reach me **2271608011@qq.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/jhomlala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jhomlala" height="30" width="40" /></a>
+<a href="http://wpa.qq.com/msgrd?v=3&uin=2271608011&site=qq&menu=yes" target="blank"><img align="center" src="http://wpa.qq.com/pa?p=2:2271608011:51" alt="jhomlala" height="30" width="40" /></a>
 <a href="https://medium.com/@jhomlala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@jhomlala" height="30" width="40" /></a>
 </p>
 
