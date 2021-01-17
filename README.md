@@ -14,11 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left">
-<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=2271608011&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:2271608011:51" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
- 
-<a href="https://medium.com/@jhomlala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@jhomlala" height="30" width="40" /></a>
-</p>
+- 📮：2271608011@qq.com
 
 <h3 align="left">Languages and Tools:</h3>
 
